@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace FixacaoConceitosBasicos1.Model
 {
-    internal class MetrosMilimetros
-    {
+    internal class MetroMilimetro
+    { }
        namespace Model
     {
         public static class MetrosMilimetros
@@ -20,4 +20,4 @@ namespace FixacaoConceitosBasicos1.Model
     }
 
 }
-}
+
